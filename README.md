@@ -1,5 +1,7 @@
 LINK => http://imagefilter.masuno.pe/
 
+EXAMPLE =>http://imagefilter.masuno.pe/filteredimage?image_url=https://e.rpp-noticias.io/normal/2019/12/07/164616_873232.jpg
+
 # Udagram Image Filtering Microservice
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
